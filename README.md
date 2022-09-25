@@ -9,6 +9,11 @@ This sample shows:
 - How to use multi canvases with different camera
 - How to use tabs with Babylon.js canvases
 
+To setup:
+```shell
+$ npm install
+```
+
 To run the app, please type the follow command:
 
 ```shell
